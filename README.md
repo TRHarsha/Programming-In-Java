@@ -18,4 +18,6 @@ Dr. Debasis Samanta's extensive background in computer science and engineering, 
 - Week 11: Java Object Database Connectivity (ODBC)
 - Week 12: Interface and Packages for Software Development
 
-Resource Link: https://cse.iitkgp.ac.in/~dsamanta/java/index.htm
+**course link:** https://onlinecourses.nptel.ac.in/noc23_cs49/course
+
+**Resource Link:** https://cse.iitkgp.ac.in/~dsamanta/java/index.htm
