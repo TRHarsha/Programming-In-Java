@@ -1,3 +1,5 @@
+// to check whether the number is an Armstrong number or not.
+
 import java.util.Scanner;
 public class Exercise1_4 {
     public static void main(String[] args) {
