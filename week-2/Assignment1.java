@@ -1,4 +1,4 @@
-// to call the method  print() of class School first and then call print() method of class Student.
+// code to call the method  print() of class School first and then call print() method of class Student.
 
 // This is the class named School
 class School { 
